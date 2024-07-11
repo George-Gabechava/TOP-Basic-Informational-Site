@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  },
+  "name": "top-basic-informational-site",
+  "description": "[# TOP-Basic-Informational-Site](https://www.theodinproject.com/lessons/nodejs-basic-informational-site)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/George-Gabechava/TOP-Basic-Informational-Site.git"
+  },
+  "author": "George Gabechava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/George-Gabechava/TOP-Basic-Informational-Site/issues"
+  },
+  "homepage": "https://github.com/George-Gabechava/TOP-Basic-Informational-Site#readme"
+}
